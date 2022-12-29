@@ -1,0 +1,1212 @@
+But the solar system's maintaining it equally at 3.6 amps, okay, at 28.2 volts, okay.
+So 100 watt hours and inside the house we're drawing 42, I'm trying to see why we're drawing
+42.
+Oh, people charging laptops and shit?
+Maybe.
+Okay.
+So I'm going to turn on semi-green inverter, my lovely 50 hertz inverter with this.
+This is the 50 hertz inverter?
+Yeah.
+The 3000 watt monstrosity?
+Yeah.
+And it's a, you know, if you had good ratings, I'd just say the Trenum M started the wrong
+thing in the wrong place.
+If you look at the bottom of it, so, so now generators are off, the inverter floating
+boat barely went up like a tenth of an amp, okay, because it was rated to have pretty
+good, you know, you know, parasitic load when there's no load.
+So what exactly is this box?
+This is the solar charge.
+That's the solar charge control.
+Okay.
+So solar power.
+That's all the brains.
+So the solar power comes in from up there, so this conduit up to there, brings underground.
+I also have other wires going out there.
+I actually have a AC outlet up there in that box, just to run like telescopes and things.
+Gotcha.
+And right now it comes from the main generator.
+I want to move this to semi-green, okay.
+This is semi-green.
+That's semi-green.
+That's semi-green.
+This is green near me, no, this is actually, that's that green.
+This is the solar panel.
+You basically leave this on unless you're servicing the batteries, okay.
+Okay.
+By the way, the way these switches are, these DC shut-off high-amp switches is horizontal
+is on.
+So, for example, I just turned on the big interval at times, I turned it off, it will
+squeal at death-dye, okay, as this big, massive capacitor slowly gives it a go.
+And that's that.
+And that turns off all the parasitic load.
+There actually is a remote, like RJ45, that I can turn it on, but it, but it all it does,
+and all of them are this way, all it does is, it's a fast on-off, it reduces it, but
+turns off the power, but there is a parasitic load.
+Gotcha.
+I'll put it back on, we'll have it on for the day.
+That means the lights in the bathroom and the bedroom will work on semi-green, because
+all the new outlets I put in are on semi-green, okay.
+So semi-green is on, then this is battery disconnect, you always leave it on unless
+you're servicing the batteries, okay.
+So when I leave camp, when I leave camp, I turn this off, this off, in the summer I
+flip this down to on always, this is the DC power to this, okay.
+Okay.
+One of the things I want to do is replace, I have a lot of low power fuses on everything,
+like these, I want to put this block in somewhere and make a nice fuse block, okay.
+It's a fuse block for my low amperage.
+So I have a fuse going over to the fridge in there, I have, this thing is fused, because
+this is not a Halana amperage, so he comes up here, and then if I flip this, if I, so
+with semi-green, and before I had solar, if I turn this timer here, and then I flip this
+up to timer, it stays on, okay.
+But now when this timer times out, it will turn off this inverter and turn off super
+green.
+Got it.
+Okay.
+And, and I actually have the, you know, sort of die here, okay.
+But super green can basically just stay on all the time.
+Well, yeah, well, it can stay on all the time, you know, one thing, the circuits still on
+the super green are the light above the desk, the light above the kitchen sink, and, and
+the gadget charging station on the stairs, because those outlets were run for, I am going
+to move those circuits, except for the desk itself, to super green, semi-green, I mean,
+okay.
+So this is super green from this inverter, comes to here, and this is just an AC status
+thing that you plug in, you can unplug it, and it turns out off, that's all about it.
+Okay, so that just reads, that just reads like output?
+That just reads output, and what it is, there is a shunt here.
+This is a shunt coil, AC shunt coil that measures my amperage.
+So this, notice this goes into there.
+So this is just, you know, so I'm trying to, I mean, put this together, okay.
+Yeah.
+Amazon.
+Okay.
+They, they, they, um, so that's, that's that, and then obviously if I unplug this, this is
+just, you know, yeah, and, and it's low, low current, you know, and, and, and, uh,
+so when I'm here by myself, I often just run on this alone.
+Gotcha.
+Okay.
+So let's see.
+The output from this guy goes all the way, and then into here, into here, then this goes
+out over to, oh, goes, goes, actually goes to an outlet in the garage where much, okay.
+So in the garage, so this is, this is, um, um, I have two big circuits.
+I have a 240 volt, uh, three, uh, split phase circuit going from the big generator straight
+into the house.
+Okay.
+Into the garage.
+Okay.
+Oh, we're going to the garage.
+So let me finish out here.
+Sure.
+Uh, actually let's go in the garage.
+I'll explain the panels there and what I want to do there.
+And then I'll come out and spray.
+How that's all of this shit's why it is with those relays that pretty out.
+Okay.
+Okay.
+So coming in from the garage, that is the, uh, that big fat wire is, is, is the, uh,
+128, 240, a split phase.
+It comes to this main panel here.
+Okay.
+Actually it comes to this.
+When I turn on this generator, which I will do right now, I have a switch here.
+Okay.
+So the big, the big generator starting electric start, the water system turns it on.
+Okay.
+This turns it on.
+That's the 6,000 watt one.
+One, two, three.
+Clunk.
+Clunk.
+Time to lay relay in there.
+Okay.
+With a timer inside.
+I melt that.
+And that means I'm not cranking against load.
+Gotcha.
+Okay.
+Okay.
+When the pump calls.
+Okay.
+And then it comes into this sub panel.
+Okay.
+Now what it does do is, um, this, this, this circuit is a 30 amp circuit going to be the
+power into the house where I have another panel.
+This is actually the master panel, a sub panel in the basement.
+This was one of the first circuits I put in the place when I put the generator in.
+And, and so this, this, that, the outlets in the house from the early days just came
+off of this.
+Uh, uh, uh, I've moved a number of those circuits to a green panel in the basement.
+I'll show you that in a bit.
+Cool.
+That is now going to be semi-green.
+Well, super green just goes straight from there.
+There is no circuit breaker because the fuse on the, the fuse on the inverter will blow.
+Okay.
+And that little inverter, this is semi-green.
+Semi-green actually goes from a, so I'm going to go back and explain to you semi-green because
+I do have a circuit breaker panel there, um, uh, under that inverter.
+But I also, um, there's also, uh, it will pull from the generator circuit.
+I'll, I'll go explain the generators connection to all this later.
+This is circuit number six, uh, uh, so here off of this circuit, it seems like.
+Uh, lights in here over there and light in that outlet over there.
+Gotcha.
+Uh, uh, there's just an outlet up here and that's, and that runs off of super green.
+No, that, well, right now it's off generator only.
+Okay.
+That's all the generator out there.
+I'm going to order all the super green.
+Semi-green.
+Okay.
+Semi-green is.
+Semi-green is, semi-green is kind of a goal.
+The semi-green is a goal for everything because you can get high current either 3001 inverter
+or if a generator is running.
+Yeah.
+Okay.
+Generator straight.
+Okay.
+So the generator is so that the battery charger out there, which also runs off of generators
+only.
+Okay.
+The battery charger that sits there, feet, either the, either the small little portable
+or the big generator, whenever a generator is running, the battery charger will put battery
+charge on the batteries, but you're not drawing from the batteries at the same time.
+So the inverter, so the batteries will charge up faster.
+Cool.
+Okay.
+Cause I, you know, uh, uh, and so rather than a lot of people make off grid source systems
+that the generator sold job is to charge batteries.
+Okay.
+And, and then your, your inverter is always providing continuous power 24 by seven and,
+and with the new inverter charger I can have, it will actually have an inverter charger.
+And I may actually go to that, that will start to gen, the big generator when necessary,
+especially if the battery charger is more than the 25 amp 24 volt charger I have out
+now.
+You can get like a 50 amp one that can put a pretty fast charge to generator, don't
+have to run a huge amount of time.
+Okay.
+So that's an option.
+I may rewire that when I replace that, that, that 50 Hertz thing.
+But so super green, super green when I wired this, before I had this, I wired super green
+in from here and it wasn't called super green.
+It was on my 1500 watt 12 volt inverter before the one I had before, but switch to 24 volt
+last year.
+Right.
+I remember that.
+Okay.
+So, so, uh, but I just moved the existing solar circuit over to, uh, uh, super green
+and then now I'm, I'm, I'm making semi green when I added this new 3000 watt inverter.
+So this is the only semi green outlet here.
+This is a full charger timer and it turns right now, it's on super green.
+That charges these.
+I'm going to move this to this and make more outlets out here on this.
+Wait, you got tool charge on super green?
+It was because it was the original, it was the original 12 volt system, which was a 1500
+watt.
+I still have that inverter in a box somewhere.
+Okay.
+I have, I have a complete 12 volt setup in boxes and actually, you know, somebody wants
+a real small 12 volt setup, everything, but the panels, the, uh, so believe it or not,
+uh, uh, then when we organize the garage this summer, we put all these, I used to have these
+in the house and everything.
+Yeah.
+Uh, we put them all on this circuit and believe it or not, charging a bunch of these batteries
+plus running the thing is too much for super green.
+So yeah.
+I'll probably keep one super green outlet out here.
+I'll probably swap this to be super green and this to be, uh, semi-green.
+And then over here, generator only air compressor, I'll probably keep it on generator only.
+Okay.
+You know, the, uh, you know, the, I don't know, I'd not have a generator, but the lights
+and even the tool outlet over there, I'm going to, I'm going to move this.
+Okay.
+So that one is the lights and tool outlet over here and that one is currently on generator.
+Uh, this is add comes right into the, this is a Jane generator panel.
+Okay.
+And that guy is the compressor plus generator lights.
+All right.
+Now let me go back over to where the generator, and by the way, one circuit comes out of here,
+uh, uh, and the circuit coming out of here goes up to here to the compressor circuit and
+then goes back to the generator so that when the generator is running, so I have it, and
+it goes through a 15 amp, uh, uh, 15 amp breaker to code and back to the generator, the generator
+takes whatever the generator is running, it adds the ability, uh, to charge its own battery
+from AC.
+Okay.
+And, but so, so the circuit, this circuit here, yeah, comes from the garage.
+Okay.
+Okay, this is output, this is from 120 volt from the garage on the right.
+Okay.
+And by the way, that home wire is the two-wire start circuit.
+Oh, sick.
+Okay.
+Cause that's just a 12 volt on the battery.
+Yeah, yeah, yeah, yeah.
+Now in here, this is, let's say this thing totally shits the bed.
+Yeah.
+I get a big sort of heavy duty 240 volt portable generator and I flip this double breaker in
+one direction on from backup generator.
+Okay.
+Generic.
+Come over here, emergency gen backup, plug in there using this cord.
+Okay.
+Okay.
+And a manual start, but, and I put this in long ago when I put the generator.
+Yeah, yeah.
+Now, more recently, since I do want to have charge, I put an input in here from 1000 watt
+or 2000 watt right now, it's a 2000 watt.
+And this is input from my semi-green portable.
+So these either the big generator or this input, this is an input, okay, from here.
+From here.
+Okay.
+So this is where the, this is where.
+I ran this all last night.
+Right.
+This is super quiet.
+It's got a low RPM and burner mode.
+Okay.
+We can run all night if necessary.
+Or if I, if it's a cloudy day and I'm telecommuting, it's not super noisy like this and a lot less
+wear and tear on a big machine.
+Yeah.
+This is 6kW.
+And I run it, when it's running super efficient, it's putting out about a half a kW.
+But it's enough to run the battery charger.
+Gotcha.
+And by the way, because of the cloudy, that panel feeds 12 volts through this PWM solar
+charge controller that feeds back through here, comes back through that red and black
+wire into here to keep that battery charge, okay, because, don't put that switch off in
+the garage in the generator, we don't need it on.
+Switch on the garage.
+Okay.
+Let's see if I can remember this.
+There's one, wait.
+Which one?
+Fuck.
+Compressor switch.
+Oh, right, right, right, right, right.
+Oh, enabled disable.
+Gotcha.
+Okay.
+Made a noise.
+So there's one, two, three switches in here, plus that dial.
+All right.
+Fuck.
+This is complicated.
+This is so complicated.
+I know.
+Oh, here.
+Okay.
+Has a computer.
+Computer.
+This thing sucks, right?
+Yeah.
+Well, it, it, it runs everything, but it's a parasitic load of about 8 watts.
+8 watts.
+Off the battery.
+If I'm here by myself in the generator and hardly runs, this battery goes down.
+So the, but right now this battery is fully charged.
+This measures the charge level on that battery.
+Okay.
+It's a totally separate, and these go straight to that little 100 watt panel on the bottom
+of there.
+That's solar in and coming from load out.
+This goes back.
+So this also feeds in, in here.
+This, no, this, yeah, this goes into here, a 12 volt, oh, that's the negative.
+I'm sorry.
+That's the negative here.
+So this, oh yeah, the red for this actually goes down to charge this.
+So if, if I'm running any generator, this actually will add a more charge.
+This is such a slow charger.
+This is designed for home standby, meaning you've got utility.
+You've got utility.
+You've got utility.
+This computer has its own little very low current battery charger to keep the battery
+topped off.
+The generator is running, the generator is keeping the battery topped off, so the battery
+is always topped off.
+Yeah.
+We don't have fucking utility.
+Okay.
+So if the generator is off and there's no power, otherwise I think this computer will
+kill it over the course of four days.
+Been there, done that.
+Yeah.
+Okay.
+And that fucking blows.
+And so, so I have this whole separate system with its own battery charge.
+So this is a complete, you know, completely separate battery charger right there.
+Battery charger, solar charge controller, solar panel, and battery, you know.
+And hopefully the idea is that the eight watts from there is outweighed by that hundred
+watts there.
+Over the course of 24 hours.
+Okay.
+But if I, you know, but the nice thing is if I run either that or this, this goes off.
+Got it.
+Okay.
+Like, like for example, notice it was on and flashing.
+Yeah.
+But.
+Did I have gas?
+Get a little bit.
+I'm gonna have to.
+Oh, did it run out overnight?
+No, it didn't.
+All right.
+So the relays in there will prep, this will preempt this and either this or this will
+preempt the solar charge controller on semi-green.
+On semi-green.
+Okay.
+So yeah, I'm going to top it off tonight because we may have to run it tonight depending
+on what we do.
+The interesting about it is I can turn, we can let people turn on all the lights inside
+the bedrooms off with that band and then plug in all their gadgets onto the semi-green
+circuit.
+That's what I'm saying.
+Charge your phones in your bedrooms.
+Yeah.
+Okay.
+Not in the charge.
+Because the charge station is super green, which is purely solar and solar is not happening
+right now.
+It's not only purely solar battery, but it's only 300 watts.
+Right.
+Because it would, it's heritage dates to.
+Yeah.
+All these fucking phones now use like 15 watt chargers and shit and like 30 watt chargers.
+Well they quickly dropped down to a much lower current weight.
+It's glass tops, dead glass tops, five dead glass tops will blow out the super green.
+And so you said that there was a fuse attached to the super green and that's like not a reusable
+fuse.
+That just like.
+Yeah.
+It's actually, it's on the inverter itself.
+Cool.
+Okay.
+Yeah.
+And I have blown that.
+Actually what happens is half the time the thing goes beep and shuts off.
+Ah, cause it'll, it'll smart enough to recognize that it's over current and it'll peace out.
+But it, you know, the nice thing is, is that super green is enough with my very low current
+and that's why I got the Euro.
+My brother Jeff installed the Nero and this, the one you helped survey and I was looking
+at his power consumption.
+I go, fuck.
+And that's why I got it.
+I mean, I gave up a lot of networking functionality like VLANs and, you know, it does now port
+in.
+So let me put this on now.
+On.
+Yeah.
+Sometimes when you start these things and then you turn them on for me.
+So now, now what is happening is, um, that charger's on.
+Right now everything's happy and fully charged.
+Yeah.
+The sun is happy.
+That charger says fully charged.
+So, but power is coming from there through here, into here, by the way, that has its
+own overload protection.
+So it's not directly fused.
+Okay.
+That generator.
+Gotcha.
+Okay.
+But when it comes through the big generator comes from the 15 amp fuse on.
+So semi green is 15 amps.
+So that's like 1800 watts.
+Okay, it's a single circuit, not really to code, you know, got too many outlets on it
+with you.
+Okay.
+So the battery charger's charging, but and, and, uh, semi green inverter is on and, you
+know, so everything's in the house.
+So semi green inverters not have any load because this green, this, this breaker here,
+the preamp should relay, uh, from, uh, Jenset preamp and then over here is semi green Jenset
+preamp solar.
+So basically if both generators, the big one, the 15 amp circuit that comes back from the
+garage from the big generator, the, the circuit from that small plug, yeah, coming to this
+relay, if the big generator runs, now if I put your hand on here.
+Okay.
+What am I supposed to feel?
+What?
+Listen.
+Wait.
+Oh, okay.
+Okay.
+It switched to the big generator.
+Yeah.
+Okay.
+After the generator started.
+Okay.
+Okay.
+Put your hand back on it.
+Where's this?
+Where's my indicator light?
+So.
+That's on generator.
+Over here.
+Okay.
+Now it's on the little generator.
+Okay.
+Okay.
+Go turn.
+Uh, hang on.
+I'm just going to plug it here.
+Uh, what?
+Take a look.
+Okay.
+I'm going to plug in the generator.
+Oh.
+Now it's on the little generator.
+Okay.
+Okay.
+Okay.
+Go turn.
+Uh, hang on.
+I'm just going to plug it here.
+Uh.
+I'm going to plug in the generator.
+Oh.
+Now it's on inverter.
+Yeah.
+Yeah.
+Yeah.
+50 fucking hertz.
+Okay.
+Okay.
+Uh, uh, isn't that nice?
+Yeah.
+That's fucking sick.
+Okay.
+I'm plugging it back in.
+Okay.
+So what exactly is this device?
+So this is a two pole, uh, uh, two pole, uh, uh, relay.
+Two pole relay.
+Okay.
+And this is the same thing.
+Okay.
+Gotcha.
+So literally like what happens is.
+What's that big electrical?
+That's big.
+Granger supply.
+Granger supply.
+Okay.
+Awesome.
+Awesome.
+Awesome.
+Yeah.
+For sure.
+Okay.
+So, so if I understand this correctly, like you've got like the, the, the arm of the relay,
+right?
+Like hooked up to.
+Normally closed in one direction.
+Right.
+Normally closed in one direction.
+And then when, when power is.
+Normally closed for everything means it's going to pull from here.
+Right.
+Power from, from, from, from big generator hits here.
+Yeah.
+So power from big generator here, here it switches it to big generator.
+Yeah.
+Okay.
+So what power comes into here?
+It then goes to here.
+If power comes from here, it's the fault node is with no power called to the, to the coil
+is from inverter, but when any generator is running, this one flips.
+So you feel this one flip in either case, you get a flicker.
+Okay.
+Okay.
+So the, the.
+So now I'm just running the big generator for no fucking reason.
+Fucking hell.
+And I'm going to turn off.
+This is a 22 minute long video.
+Oh, I heard a, I heard a click.
+So now the, now this boy's off back on this guy and this guy pulls from batteries.
+Yeah.
+That pulls from the batteries, which is of course charged by that big fuck off thing over
+there.
+So if the summer, believe it or not, I can, you know, if I have a well good summer, summer
+day, I just leave some green on and the generators only runs on the pump and I don't need the
+portable.
+Okay.
+You know, and if I actually added a little bit more batteries would be better, but I've
+got 800 amp hours.
+I'll get you there in a second.
+So that's basically this circuitry here.
+Okay.
+Let's go and take a look at the basement.
+Sweet.
+Parasig load.
+Yeah.
+From a distance, you can tell the generator's running, but I chase every person.
+Oh, for sure.
+100%.
+100%.
+One more quick question.
+What?
+So this 15 watt panel right here, that, that charges a battery in here.
+One of those, just one of those little batteries.
+I had two of them here.
+My old hundred watt system had two of these big batteries.
+The other one was totally shot.
+I turned it in.
+It just maintains.
+So, you know, if, if a lead acid battery goes too dead, it can freeze and damage.
+It's like fucked.
+Okay.
+And apparently it gets a long time for a big battery like that to go bad.
+It would last a couple of years, but yeah.
+I heard you said 20 years at some point.
+Well it freezing weather.
+You know, not good.
+That's why like when your car goes dead, the winter and you leave your battery dead and
+you let it freeze, because all the sulfur is on the plate and that water in the battery.
+Yeah.
+Especially a flooded battery.
+So you got to fucking buy a new battery.
+Yeah.
+Refurbish the battery.
+Yeah.
+I think there's one behind the wood.
+Have you recorded what this does?
+Turn it on for Wi-Fi.
+Yeah.
+That was towards the beginning.
+Okay.
+I got something.
+But yeah.
+Okay.
+Okay.
+Right.
+Yeah.
+Yeah.
+Yeah.
+I remember that.
+It's like a simple idiot.
+Yeah.
+Thanks.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Yeah.
+Okay.
+Okay.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+That's what we're done here.
+I gotta send it.
+I hope it's fine.
+Don't break a leg.
+Again.
+Bozo.
+That bozo broken ankle.
+So in here, this was last summer.
+Last summer?
+A year ago.
+Oh shit.
+Son.
+We got stacks on stacks.
+Yeah.
+So this assembles.
+Okay.
+This is gravity fed.
+I built this with a river a year ago this summer.
+And at the same time, Connor and I put those 400 watt panels over the garage.
+Right.
+And that had, I had the, I only had to buy one more.
+I had three left over from my old original 12 volt setup.
+Yeah.
+And then this is also a preemptive, this actually actually preemptive circuitry built in.
+I bought this to replace that fridge.
+Right.
+Whatever any generator runs.
+Okay.
+This comes off.
+So this comes off.
+This turns on the fridge.
+Okay.
+That's the fridge.
+This is actually a two pole switch.
+Yeah.
+So it'll switch both the 24 volts straight from the batteries.
+And this comes from one of the fuses in there.
+24 volts.
+And, and so a cigarette ladder, but it's 24 volts.
+Wait.
+So this is a truckers fridge.
+You put this in a semi-track.
+Most trucks are truckers.
+They semi-track.
+He has this for his cold stuff in the, in the back of his, your super cap.
+Arguably the most important switch in the camp is that one.
+Cause that's the beer fridge.
+You got it.
+Especially in the summer.
+So yeah.
+Okay.
+And actually, actually it's actually great because I can turn the temperature down
+to freeze.
+And, and it'll be a freezer.
+Nice.
+And it's highly efficient.
+Yeah.
+And then the summer, the solar runs it.
+Okay.
+Awesome.
+Okay.
+And then whenever the generator runs it preempts to the generator.
+And it had that, it had the preempts in certain cases.
+Okay.
+Just because.
+Okay.
+Okay.
+Okay.
+So in other words, obviously, you know, the, the, the, you know, the trucker doesn't
+want his truck batteries to go dead and he can't start the fucking truck.
+So, you know, the, uh, so, uh, yeah, you know, the, not cheap, but $700.
+But, uh, yeah.
+Oh.
+Yeah.
+This was a major improvement here.
+So.
+Nice.
+Very cool.
+Um, so these batteries kind of pool with the batteries outside.
+No, those batteries outside aren't even used anymore.
+Okay.
+So those batteries.
+They're locked over from a 12 volt system.
+Gotcha.
+All right.
+These are the batteries.
+I just, I just want that other, other big one is still pretty good.
+Okay.
+What do you use?
+Is it when you're not using that for anything?
+I'm not using it for anything, but it could be part of that 12 volt system I give to
+somebody.
+Okay.
+Okay.
+I don't know the parts for the 12 volt system in here.
+Ah, this is the, this is the previous gen.
+This is what gen, gen two.
+Gen one.
+Gen one.
+What, what gen are we on right now?
+So.
+Are we on gen two?
+We're probably two and a half.
+Gen two and a half.
+Okay.
+So here's my 1000 watt inverter right here.
+Okay.
+That's the 1000 watt inverter.
+Yeah.
+12 volts.
+12 volt.
+1000 watt inverter.
+Not interchangeable.
+And I have a solar, what I have.
+Actually, I have a 100, 100 watt small inverter.
+Oh, this is the 20 per volt one.
+I have an extra 20 per one in case that super green one fails.
+Right.
+And I have a 12 volt one as well.
+So yeah.
+Cool.
+So I have, this is enough.
+I have enough to make other than the solar panels to make a complete 12 volt system.
+Yeah.
+That somebody, somebody who's just here in the summer and has like a very lightweight
+internet service like, like my arrow.
+Yeah.
+You know, and they're not here in the winter.
+That could be more than enough for, you know, probably I would just run with four panels
+and that inverter, one or two of those bat batteries.
+Sure.
+And they'd be good to go.
+Nice.
+And so remind me, why did you switch to 24 volt?
+Fatness of wires.
+Fatness of wires.
+Okay.
+The what, the 12 volt wire is coming.
+Oh, they're coming from behind.
+This is this.
+And even these are slightly underrated, but I don't, I don't, since I'm not running,
+you know, I don't draw 3,000 watts.
+Yeah.
+Okay.
+And it can take a surge.
+But technically this should be, this is, I think four out gauge.
+I think it should be, I think four out gauge.
+I think it should be two or one odd four, which is like, and, and if I were 12 volt,
+it would have to be just fucking and just managing and dealing with it.
+They're, they're distance lengths and there's calculations, what you have to have.
+Yeah.
+And, and, and ideally, you know, I can get double the power if I just switched to 48
+volt and I wouldn't even need to change these wires.
+Okay.
+And I just rewire these.
+So these are 12 volt batteries, two banks, each in parallel.
+And also, I'll show you how I will draw it on paper because I can show you.
+Yes, please.
+Okay.
+Yeah.
+I've got a, I got a sketchbook.
+We can, we can do it in there.
+It's like actually proper.
+You're filming that you're going to be watching this.
+This is a 29 minute long video Potter.
+Oh, yeah.
+Oh, yeah.
+Oh, I'll show you the base.
+Okay.
+That's just, just a selection of distribution and it needs a lot.
+I did some rework this summer.
+Okay.
+Like all the new wiring we put in to, to, to house helped and a whole bunch of CSU just
+helped me wire crawling under the camp.
+Also, you know, during the middle of the season.
+Fuck.
+Was that bad?
+That was bad.
+Wasn't it?
+It was pretty rough.
+It was still fun.
+All right.
+Yeah.
+Okay.
+I have a light on super green that turns on some, you know, LED lights there.
+Yeah.
+So this is basement light on a timer, always.
+Timers for everything.
+More fucking time.
+This is the main sub panel from the generator.
+Okay.
+Okay.
+Okay.
+And I've got a bunch of newsbreakers here that I put them in.
+I think I was going to wire the whole house from the main generator.
+I'll probably never use all these circuits, but there they are.
+There you have them.
+Okay.
+This is a 240 volt circuit going to the water pump system.
+This boy?
+Yeah.
+Okay.
+So interesting for the water pump system it had to do with the generator.
+This is a two pole start switch for switch the, so switch the 240 volts with phase.
+Yeah.
+Normally at a well, you would run 240 volt in and out and it would click on and off the
+pump as needed at a house.
+Okay.
+With utility.
+The problem is I need to use one of the poles of this.
+Yeah.
+It's just a two pole switch.
+Okay.
+And if I push on this right here.
+What are you pushing on?
+Click.
+Click.
+I just went out of water.
+Now.
+Timer goes.
+It's pumping.
+I just forced it to pump.
+Yeah.
+It's almost full so it's going to start off any minute, but that turned on that.
+That plugged into Gen-O-Me.
+Notice I labeled that Gen-O-Me?
+Gen-O-Me.
+Okay.
+And I noticed I labeled that one up there super green.
+Super green.
+And I didn't, that's a new little distribution box up there that moved some of the wires
+from Gen to semi-green and super green.
+So I have a split super green.
+The upstairs outlet in the loft and in my bedroom is that four wire.
+Okay.
+So it takes both super green and semi-green upstairs.
+The, well, it's full.
+There you go.
+So all of this, and by the way, so what it's this is, this is, so obviously I need a 12
+volt circuit.
+The 12 volt start circuit for the generator has to come through all this.
+It comes all the way down to this switch.
+Comes into here.
+This switch disables it so the water can't start the generator.
+Disable.
+Disable.
+And then if the generator is running, it would actually still get power.
+Actually, no, it won't.
+It won't get power.
+But if you totally want it, you can turn off, this is a 240 volt breaker to the pump.
+But normal operation, this is on.
+This has been there since I put the generator in back in 2011.
+Okay.
+Okay.
+And again, this is the start circuit.
+This was the CAT 3 cable I stole from RIT.
+Oh my fucking god.
+Incredible.
+But yeah, there's that.
+And then I've been building out this new sub panel and he's on semi green.
+Okay.
+So he comes straight from the semi green.
+And I use these extra, this actually was water pump wire.
+So when I built the thing, I actually put a lot of extra wire in the conduit from the
+garage to the house.
+I have not had to put any new wires in.
+So I have circuits.
+I have cables for three separate sources of 120 volt power from the day I put the generator
+in the garage.
+Very nice.
+Okay.
+And it sat there unused.
+And it's been very nice.
+But right now I have.
+So, so these are the new circuits we put in this summer that Klaus and the boys have
+saved to help me with.
+Danny and Lonnie.
+Yeah.
+Danny and Lonnie.
+What did that say?
+What did that say over there?
+Basement, bathroom, kitchen, kitchen net.
+But that actually is not hooked up yet.
+Okay.
+It will be.
+I'm going to move the semi green kitchen.
+Switch on the floor there.
+That switch on the floor is coming off of super green only right now.
+Okay.
+I got to move that.
+I moved that switch on the floor.
+Actually, I'm actually going to rewire.
+I'm going to wire up to those up above lights.
+I like the indirect lights shining on the ceiling.
+Yeah.
+Okay.
+Okay.
+The makes a nice warm light in there.
+I have to do more of those.
+And so I'm going to just run super green to the desk with the internet and everything
+else will be on semi green, especially once I get the right inverter going.
+And then, but so the bathroom, I figured I was going to have a separate circuit.
+What does this say?
+15 amp.
+I can't even read my writing there.
+I'm terrible.
+I'm already terrible.
+You've got to get the label maker down here.
+I know.
+Yeah.
+It doesn't stick.
+You need a better label maker.
+That label maker, they fall off.
+Yeah.
+They just suck.
+Get the class label maker.
+I don't know.
+I used cheaply.
+Fozo.
+But yeah, this is just a basic soap panel.
+And what happens is I bring three wires in, but I just bring the two hots together because
+it's, this is actually, I'm only getting 15 amps.
+Now let's, oh, one last thing I didn't show you.
+Okay.
+Over here.
+But it's nice when I arrived in the summer and I disabled my water when I leave in the
+summer just so that it doesn't actually start in pulp.
+And I disabled my generator.
+Yeah.
+By the way, I didn't show you my disabled process.
+I might as well show you that.
+Sure.
+So because we're in the garage, the most annoying thing about that computer generator, you're
+gonna, you know, I already, Steve Green helped me fix the computer generator one time because
+I had to put in Potter designed lightning protection.
+Potter designed lightning protection.
+Because the computer generator.
+It's intense.
+Computer was dried by a nearby lightning storm shortly after.
+Oh, when was that?
+Oh, it's a bunch of years ago.
+Okay.
+And it was after the warranty of the generator expired and $400 for a new fucking computer.
+That blows chunks.
+So here, when I leave camp, the Tarte circuit from house and everywhere comes through this
+box that I designed.
+What's in there?
+It's a surge suppression circuit.
+Switch on top.
+Yeah.
+That basically takes all the wire and shunts them to ground.
+So here's an honor start for the generator.
+I flipped this.
+Nothing happened.
+Okay.
+The computer is still ready to run, but there's any lightning strikes that strikes the ground
+and induces through the start circuit is not going to come through to the generator computer.
+Okay.
+Get pranked.
+Okay.
+So ready to run.
+So this doesn't know it's not a source.
+So I got no way to start.
+I can go over here and push it to manual start, but it's on auto start.
+Okay.
+This putting it to the center position means I can turn this back on.
+No startage.
+It's on here.
+Basically, all these start triggers are just hooked in parallel.
+Sometimes where did I turn the generator?
+Is the pump pumping?
+Is it turned on in the kitchen?
+Is it turned on in the garage?
+Or is it turned on out here?
+You've got to get like a status LED or some shit to like let you know.
+Well, I do.
+There's lights in various places.
+We need like a whole switchboard, like a centralized switchboard somewhere.
+But this is a surge suppression circuit and it has a solid state relay.
+When I came up here, Steve Green, I had a solid state relay and it fried.
+Which was not a bad thing.
+It saved the generator.
+Steve Green helped me wire this.
+But so here's what happens is we'll go through my arrival routine.
+So this is always slipped off when I leave camp.
+Okay.
+Just to ground everything.
+Right.
+But if the lightning strikes when I'm in camp, that circuitry probably protects me anyway.
+Okay.
+Yeah.
+That surge suppression circuitry I bought.
+So this off.
+Now, this means the solar charge controller is still topping out the battery.
+So no self-discharge.
+And nothing will start to generator.
+Okay.
+I arrive.
+This is on.
+First thing I come out here.
+You always see me come out here.
+Yeah, right.
+Okay.
+I come out here.
+Put it up.
+Put this on.
+On.
+I had to, there's a fuse here for the computer.
+Oh.
+Okay.
+Sure.
+I used to take out the fuse every time I left.
+I got pissed at that.
+So I wired the switch.
+You got a little switch boy.
+There's a fuse.
+Okay.
+It's a fuse.
+It's just, it's just like a 5 amp or 10 amp 12 volt fuse.
+Okay.
+Okay.
+So turn this puppy on.
+Now look at the computer screen.
+Generator active install wizard.
+It's not ready to run.
+Okay.
+Oh my God.
+I didn't set the time right.
+What time is it?
+The time is currently in New York.
+It actually has stores and flash memory.
+It's run log.
+11.53.
+Okay.
+Enter.
+Good enough.
+Month.
+Deal 12.
+Today's the 27th.
+I did set that.
+Okay.
+Now I hit enter.
+Today's the 28th.
+28th.
+Oh well.
+Oh well.
+Fuck it.
+And there.
+Okay.
+Now it's ready to run.
+Why the fuck does your generator need a clock?
+Fuck it.
+And so I got to go through this.
+Now here's what's really bad.
+Okay.
+You're right here.
+It's 15 below.
+Oh shit.
+This LCD.
+It takes like five minutes for the digits to show.
+With your fingers fucking freezing.
+And I want a fucking digger shot.
+I got a fucking deal.
+But there it is.
+And now we're ready to run.
+And it will start.
+Why didn't it start?
+Enter.
+Why is that not a run?
+Oh did you switch?
+Oh I did.
+I know.
+Oh yeah.
+I did put it in.
+Thank you.
+So that's that.
+And then I apparently changed the oil and oil filter and service and motor.
+Okay.
+Damn sheesh.
+Okay.
+So now you've seen the basement.
+Did I close up the basement door?
+You like shut it.
+I don't know if there's like a latch or anything.
+No, no, no.
+Did I close it?
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+Yes.
+Yes.
+No.
+No oh.
+Oh.
+Celine.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+Oh.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+And they're professionally done by professionals that charge $20,000.
+But that's fucking boring.
+Well, yeah.
+Well, the...
+So now, yeah.
+So I've got a few wiring down here to change the circuits going over there.
+I do want, you know, so that obviously...
+So the inverter's on.
+Oh yeah, you can see this.
+So the inverter's on.
+Okay, I got 3,000 watts.
+Okay.
+By the way, these are like light activated, so if you...
+Have you got close to them?
+Yeah, well, if you cover up that little sensor.
+Yeah, yeah.
+And when it's still enough light.
+So this is...
+I can run my desk on super green alone.
+It's kind of nice.
+Just the desk, okay?
+Sure.
+The desk area.
+The microwave's running, okay?
+And what's that running on right now?
+It's running on the inverter.
+That's the inverter.
+It's running the generator on?
+It's draining the batteries.
+It was draining the batteries.
+No, not yet.
+Wait.
+The hammer.
+Notice the frequency change of the sound.
+Switch from 50 to 60.
+That time it actually worked.
+Sometimes it would go...
+I have a little UPS over here.
+You may...
+I probably had it.
+It would totally bonkers out to UPS.
+And that led me, like, into all sorts of confusion.
+Good name.
+So, yeah, so for example, the light upstairs can be turned on.
+The lights in the bedroom can be turned on.
+The lights in the bathroom can be turned on.
+And, you know, we're pretty charged.
+Probably out this evening I'll run the portable generator from dark until about 8.39 or shortly
+we could go to bed.
+I'll turn it off and the internet alone can run overnight.
+Just fine.
+Not a issue.
+Great.
+Off the batteries.
+And especially now that the nitro is going to be a bit warmer, the batteries will be
+able to get more productive.
+And that's the system.
+Okay, so now we want to draw things out.
+Or do we want to do something else?
+Oh, yeah.
+I can draw things out.
+What are people doing?
+People are just kind of doing their own thing.
+I'm thinking tomorrow when it's a bit warmer, we'll climb Baldy and have a picnic somewhere.
+Just that, bro.
+Okay.
+You've been continuously filming me.
+Yeah, this is a 43 minute video.
+Are we done with the...
+I think we're done with the video.
+All right, cool.
+Cool.
+Nice talking to you all.
+Yeah.
+Thank you for joining me too, by the way, for when some bozo finds us on gallery in 50 years.
