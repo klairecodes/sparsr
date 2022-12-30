@@ -1,12 +1,10 @@
 import cv2
+import webvtt
 
 def getTimestamp(phrase, subtitles):
     print("\n")
 
 def main():
-    print("fuck")
-    video = cv2.VideoCapture("potter-power-grid.MOV")    
-    print("aaaaaaaa")
-    print(input())
+    video = cv2.VideoCapture("/data/IMG_0733.MOV")
 
 main()
