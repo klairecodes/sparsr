@@ -28,14 +28,26 @@ def main():
         success, image = video.read()
         if success:
             print(f"Outputting frame-{caption.start}.jpg...")
+            # black text drawn behind for outline
+            cv2.putText(
+                    image,                      # image object
+                    caption.text,               # text to put
+                    (255,1000),                 # origin/position
+                    cv2.FONT_HERSHEY_SIMPLEX,   # font
+                    1,                          # font scale
+                    (0, 0, 0),                  # font color (BGR format)
+                    cv2.LINE_AA,                # line type
+                    3                           # thickness
+                    )
+            # white text
             cv2.putText(
                     image,
                     caption.text,
-                    (255,500),
+                    (255,1000),
                     cv2.FONT_HERSHEY_SIMPLEX,
                     1,
-                    (255, 255, 255, 255),
-                    3
+                    (255, 255, 255),
+                    2
                     )
-            cv2.imwrite(f"/data/frame-{caption.start}.jpg", image)
+            cv2.imwrite(f"/data/frames/frame-{caption.start}.jpg", image)
 main()
