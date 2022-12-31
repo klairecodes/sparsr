@@ -8,5 +8,5 @@ podman build -t potter-parser:latest .
 
 ## Running
 ```
-podman run --rm -it -v /scratch/klaus/whisper_nonsense/MOV/potter_rant:/data --name=potter localhost/potter-parser:latest
+podman run --rm -it -v /scratch/klaus/whisper_nonsense/MOV/potter_rant:/data:z --name=potter localhost/potter-parser:latest
 ```

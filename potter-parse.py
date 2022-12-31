@@ -27,15 +27,32 @@ def getFrames(captions, video):
 
         video.set(cv2.CAP_PROP_POS_MSEC,seconds*1000) # milliseconds
         success, image = video.read()
-        # TODO: remove hardcoded positioning
         if success:
-            outputFrames(caption, image)
+            outputFrames(caption, image, int(seconds))
+
+"""
+Looks through the video at each timestamp, and outputs the frame and a "padding" range of frames with their captions to several files.
+"""
+def getFramesRange(captions, video, padding):
+    for caption in captions:
+        ts = caption.start # format: 00:00:00.000
+        text = caption.text
+        time = datetime.strptime(ts, "%H:%M:%S.%f")
+        seconds = (time-epoch_time).total_seconds() # subtraction converts to correct type
+        for secs in range(int(seconds)-padding, int(seconds)+padding+1):
+            print(f"sec:{secs}")
+            video.set(cv2.CAP_PROP_POS_MSEC,secs*1000)
+            success, image = video.read()
+            if success:
+                outputFrames(caption, image, secs)
 
 """
 Outputs the provided caption and image to an image file.
 """
-def outputFrames(caption, image):
-        print(f"Outputting frame-{caption.start}.jpg...")
+def outputFrames(caption, image, seconds):
+        # TODO: remove hardcoded positioning
+        # Weird string slicing is to handle out-of-order seconds
+        print(f"Outputting frame-{caption.start[:6]}{seconds}{caption.start[8:]}.jpg...")
         # black text drawn behind for outline
         cv2.putText(
                 image,                      # image object
@@ -57,7 +74,7 @@ def outputFrames(caption, image):
                 (255, 255, 255),
                 2
                 )
-        cv2.imwrite(f"/data/frames/frame-{caption.start}.jpg", image)
+        cv2.imwrite(f"/data/frames/frame-{caption.start}-{seconds}.jpg", image)
 
 def main():
     # timestamps that contain the words we are looking for
