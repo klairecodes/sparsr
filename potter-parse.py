@@ -1,5 +1,7 @@
+import os
 import cv2
 import webvtt
+import argparse
 from datetime import datetime
 
 # this value is 1900 instead of 1970 because that is what webvtt defines as epoch
@@ -8,9 +10,9 @@ epoch_time = datetime(1900, 1, 1)
 """
 Parses the vtt caption file to get each caption containing "phrase".
 """
-def getCapWithPhrase(phrase):
+def getCapWithPhrase(captions_file, phrase):
     subs_with_phrase = []
-    for caption in webvtt.read("/data/IMG_0733.MOV.vtt"):
+    for caption in webvtt.read(captions_file):
         if caption.text.find(phrase) >= 0:
             subs_with_phrase.append(caption)
     return subs_with_phrase
@@ -40,7 +42,6 @@ def getFramesRange(captions, video, padding):
         time = datetime.strptime(ts, "%H:%M:%S.%f")
         seconds = (time-epoch_time).total_seconds() # subtraction converts to correct type
         for secs in range(int(seconds)-padding, int(seconds)+padding+1):
-            print(f"sec:{secs}")
             video.set(cv2.CAP_PROP_POS_MSEC,secs*1000)
             success, image = video.read()
             if success:
@@ -77,9 +78,37 @@ def outputFrames(caption, image, seconds):
         cv2.imwrite(f"/data/frames/frame-{caption.start}-{seconds}.jpg", image)
 
 def main():
+    # Parsing CLI arguments
+    parser = argparse.ArgumentParser(
+            prog = "caption-parser",
+            description = "A program to return screenshots of vtt captioned videos containing a certain phrase."
+            )
+    parser.add_argument("-f", "--filename", type=str, required=True,
+                        help="Video file to search through.")
+    # TODO: figure out how to make default subtitles_file the filename with a .vtt extension without parsing with argparse twice (and using namespaces)
+    parser.add_argument("-s", "--subtitles_file", type=str,
+                        help="Separate subtitle file to use. Default is the provided video filename with a .vtt extension.")
+    parser.add_argument("-e", "--expression", type=str, required=True,
+                        help="Expression to search for.")
+    parser.add_argument("-p", "--padding", type=int, default=0,
+                        help="Seconds of additional frames to provide around found frames.")
+
+    args = parser.parse_args()
+    filename = args.filename
+    subtitles_file = args.subtitles_file
+    if subtitles_file is None:
+        # subtitles_file = f"{os.path.splitext(filename)[0]}.vtt"
+        subtitles_file = f"{filename}.vtt"
+    expression = args.expression
+    padding = args.padding
     # timestamps that contain the words we are looking for
-    captions = getCapWithPhrase("this")
-    video = cv2.VideoCapture("/data/IMG_0733.MOV")
-    getFrames(captions, video)
+    captions = getCapWithPhrase(subtitles_file, expression)
+    video = cv2.VideoCapture(filename)
+    if padding > 0:
+        getFramesRange(captions, video, padding)
+    elif padding < 0:
+        print("Error: padding cannot be negative.") 
+    else:
+        getFrames(captions, video)
     
 main()

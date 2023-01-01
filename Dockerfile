@@ -12,5 +12,4 @@ RUN ["pip", "install", "--root-user-action=ignore", "-r", "requirements.txt"]
 
 COPY . /app
 
-ENTRYPOINT ["python3"]
-CMD ["potter-parse.py"]
+ENTRYPOINT ["python3", "potter-parse.py"]
