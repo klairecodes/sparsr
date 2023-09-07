@@ -34,4 +34,4 @@ With your file locations and names in mind, run the program with `-h` to see usa
 
 
 ## History
-This project came about because Willard wanted to document Potter's solar setup. He recorded a 40+ minute long video of Potter explaining the setup, however Potter would often say "this" and point to a component without saying what the component was. So it was hard to parse through the subtitles as documentation with the ambiguous terms, not to mention having to scrub through the video to find the right instance of the word "this". Therefore, in the wildnerness of the Adirondacks, this admittedly not super useful program was born.
+This project came about because Willard wanted to document Potter's solar setup. They recorded a 40+ minute long video of Potter explaining the setup, however Potter would often say "this" and point to a component without saying what the component was. So it was hard to parse through the subtitles as documentation with the ambiguous terms, not to mention having to scrub through the video to find the right instance of the word "this". Therefore, in the wildnerness of the Adirondacks, this admittedly not super useful program was born.
